@@ -1,0 +1,14 @@
+# PyCharm
+.idea/
+
+# Arquivos compilados do Python
+__pycache__/
+*.pyc
+
+# Ambiente virtual (se tiver)
+venv/
+.env/
+
+# Arquivos do sistema
+.DS_Store
+Thumbs.db
