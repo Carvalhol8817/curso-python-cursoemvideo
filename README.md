@@ -7,3 +7,4 @@ Exercícios realizados durante o curso de Python do Gustavo Guanabara.
 
 ## Conteúdo
 - Mundo 1
+- Mundo 2 (Em andamento)
