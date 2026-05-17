@@ -18,8 +18,6 @@ for l in range(1,5):
     if l==1:
         maior=i
         nvelho=n
-        menor=i
-        nnovo=n
 
     else:
         if i>maior and s=='H':
